@@ -6,28 +6,21 @@ The application allows users to browse coffee items, search for products, view d
 The project also integrates a **local database using SQLite** to store coffee data, cart items, and favorite selections.
 
 ---
-
 ## 📸 App Screens
 
 ### 🏠 Home Screen
 
 
-
 ### ☕ Coffee Categories
-
 
 
 ### ❤️ Favorites Page
 
 
-
 ### 👤 Profile Page
 
 
-
 ### 📋 Navigation Drawer
-
-
 
 
 ---
