@@ -7,70 +7,21 @@ The project also integrates a **local database using SQLite** to store coffee da
 
 ---
 
-# 📱 Features
+## 📱 Features
 
-### 🔍 Search Coffee
-
-Users can search coffee items using the search bar.
-
-### ☕ Coffee Categories
-
-Coffee items are organized into categories:
-
-* All Coffee
-* Cold Coffee
-* Hot Coffee
-* Americano
-* Cappuccino
-
-### 📄 Coffee Details
-
-Clicking on any coffee item opens a **detailed page** showing the coffee information.
-
-### 🛒 Add to Cart
-
-Users can add coffee items to the cart.
-Cart items are stored using the **local SQLite database**.
-
-### ❤️ Favorites
-
-Users can mark coffee items as favorites.
-
-### ⭐ Favorites Navigation
-
-The **Favorites section** shows all coffee items marked as favorites.
-
-### 👤 Profile Section
-
-The profile page displays:
-
-* Ordered coffee items
-* Quantity of each coffee
-* Price of each coffee
-* Total price of individual items
-* Final total price of all ordered coffees
-
-### 📂 Navigation Drawer
-
-Includes:
-
-* Home
-* Favorites
-* Notifications
-* Profile
-
-### 🧭 Bottom Navigation
-
-Bottom navigation provides quick access to:
-
-* Home
-* Favorites
-* Notifications
-* Profile
-
-### 🔔 Notifications
-
-Displays a message when there are no new notifications.
+* ☕ Coffee menu with multiple categories
+* 🔍 Search coffee items
+* 🗂 Category tabs (All, Cold Coffee, Hot Coffee, Americano, Cappuccino)
+* 📄 Click on coffee items to view detailed information
+* 🛒 Add coffee to cart with quantity and price tracking
+* ❤️ Mark coffee items as favorites
+* ⭐ Favorites page showing all favorite coffee items
+* 👤 Profile page showing cart items, quantities, individual prices, and total order price
+* 🗄 Local database integration using SQLite to store cart and favorite items
+* 📋 Navigation Drawer (Home, Favorites, Notifications, Profile)
+* 🧭 Bottom navigation bar for quick access to sections
+* 🔔 Notification alerts for user interactions
+* 📱 Responsive mobile UI built with Flutter
 
 ---
 
