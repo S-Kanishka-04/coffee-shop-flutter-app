@@ -22,7 +22,6 @@ The project also integrates a **local database using SQLite** to store coffee da
 
 ### 📋 Navigation Drawer
 
-
 ---
 ## 📱 Features
 
