@@ -7,6 +7,30 @@ The project also integrates a **local database using SQLite** to store coffee da
 
 ---
 
+## 📸 App Screens
+
+### 🏠 Home Screen
+
+![Home Screen]()
+
+### ☕ Coffee Categories
+
+![Coffee Categories]()
+
+### ❤️ Favorites Page
+
+![Favorites Page](screenshots/favorites_page.png)
+
+### 👤 Profile Page
+
+![Profile Page](screenshots/profile_page.png)
+
+### 📋 Navigation Drawer
+
+![Navigation Drawer](screenshots/navigation_drawer.png)
+
+
+---
 ## 📱 Features
 
 * ☕ Coffee menu with multiple categories
@@ -23,51 +47,6 @@ The project also integrates a **local database using SQLite** to store coffee da
 * 🔔 Notification alerts for user interactions
 * 📱 Responsive mobile UI built with Flutter
 
----
-
-# 🗄 Local Database Implementation
-
-This project uses **SQLite** through the Flutter plugin **sqflite** to manage application data locally.
-
-A database helper file:
-
-```
-lib/database/db_helper.dart
-```
-
-is used to handle database operations.
-
-### Database Table
-
-The application creates a table called:
-
-```
-coffee
-```
-
-with the following fields:
-
-| Column     | Purpose                                   |
-| ---------- | ----------------------------------------- |
-| id         | Unique ID for each coffee item            |
-| name       | Coffee name                               |
-| price      | Coffee price                              |
-| quantity   | Quantity of coffee ordered                |
-| isFavorite | Indicates if coffee is marked as favorite |
-| inCart     | Indicates if coffee is added to cart      |
-
-### Database Functions
-
-The database helper performs operations such as:
-
-* Insert coffee items
-* Store cart items
-* Retrieve cart items
-* Retrieve favorite items
-* Toggle favorite status
-* Delete cart items
-
-This allows the app to **persist user selections even after closing the app**.
 
 ---
 
