@@ -11,23 +11,23 @@ The project also integrates a **local database using SQLite** to store coffee da
 
 ### 🏠 Home Screen
 
-![Home Screen]()
+
 
 ### ☕ Coffee Categories
 
-![Coffee Categories]()
+
 
 ### ❤️ Favorites Page
 
-![Favorites Page](screenshots/favorites_page.png)
+
 
 ### 👤 Profile Page
 
-![Profile Page](screenshots/profile_page.png)
+
 
 ### 📋 Navigation Drawer
 
-![Navigation Drawer](screenshots/navigation_drawer.png)
+
 
 
 ---
