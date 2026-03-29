@@ -9,8 +9,7 @@ The project also integrates a **local database using SQLite** to store coffee da
 ## 📸 App Screens
 
 ### 🏠 Home Screen
-
-<img width="403" height="901" alt="Screenshot 2026-03-14 094253" src="https://github.com/user-attachments/assets/cd9fdb78-a50e-4f97-9eed-d4103f35d945" />
+<img width="716" height="1600" alt="image" src="https://github.com/user-attachments/assets/f06c9baf-1243-4b1d-90b6-5a5d133b8d5c" />
 
 ### ☕ Coffee Categories
 <img width="716" height="1600" alt="image" src="https://github.com/user-attachments/assets/d62fd9ad-1926-4a4f-bbbf-090b8f60375b" />
